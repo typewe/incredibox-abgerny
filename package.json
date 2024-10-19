@@ -1,0 +1,16 @@
+{
+  "name": "incredibox-abgerny",
+  "version": "1.0.0",
+  "description": "incrediboxabgerny.com: Play Incredibox Abgerny Game Online For Free",
+  "main": "index.js",
+  "bin": {
+    "incredibox-abgerny": "./index.js"
+  },
+  "keywords": [
+    "incredibox",
+    "abgerny",
+    "incredibox abgerny"
+  ],
+  "author": "abgerny",
+  "license": "ISC"
+}
