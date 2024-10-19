@@ -1,6 +1,6 @@
 # [Incredibox Abgerny](https://incrediboxabgerny.com/)
 
-URL: https://incrediboxabgerny.com/
+URL: [https://incrediboxabgerny.com/](https://incrediboxabgerny.com/)
 
 ```
 $ npm install -g incredibox-abgerny
@@ -72,13 +72,11 @@ Once you have your mix perfected, share it with friends or the community for fee
 
 ### Experience the joy of music creation and let your imagination flow. Start your adventure now!
 
-[Play Game Now](https://incrediboxabgerny.com/#main)
+Play Game Now: [Incredibox Abgerny](https://incrediboxabgerny.com/)
 
 ## What Players Are Saying About Incredibox Abgerny
 
 Hear from players who have enjoyed creating music in Incredibox Abgerny.
-
-![Image 1: author](https://incrediboxabgerny.com/images/testimonial/author-01.png)
 
 ### Emily Stone
 
@@ -86,11 +84,7 @@ Music Enthusiast
 
 “Incredibox Abgerny has completely changed how I view music creation. The characters add unique dynamics to every mix!,,
 
-![Image 2: author](https://incrediboxabgerny.com/images/testimonial/author-02.png)
-
 “The RPG elements combined with music create a fun experience. I love exploring new sounds with friends!,,
-
-![Image 3: author](https://incrediboxabgerny.com/images/testimonial/author-03.png)
 
 ### Sophie Chang
 
@@ -98,23 +92,17 @@ Creative Composer
 
 “Incredibox Abgerny allows me to express my creativity like never before. I enjoy discovering new combinations and sharing them!,,
 
-![Image 4: author](https://incrediboxabgerny.com/images/testimonial/author-04.png)
-
 ### Thomas Brown
 
 Casual Player
 
 “The drag-and-drop mechanics make it easy for everyone, regardless of their musical background. It's a fun way to engage with music.,,
 
-![Image 5: author](https://incrediboxabgerny.com/images/testimonial/author-05.png)
-
 ### Mark Johnson
 
 Community Member
 
 “Joining the Incredibox Abgerny community was one of my best decisions. Everyone is so supportive and encouraging!,,
-
-![Image 6: author](https://incrediboxabgerny.com/images/testimonial/author-06.png)
 
 ### Rachel Green
 
